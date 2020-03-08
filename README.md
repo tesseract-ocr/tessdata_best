@@ -5,7 +5,7 @@ This repository contains the best trained models for the
 
 These models only work with the LSTM OCR engine of Tesseract 4.
 
-See the [Tesseract wiki](https://github.com/tesseract-ocr/tesseract/wiki/Data-Files)
+See the [Tesseract docs](https://tesseract-ocr.github.io/tessdoc/Data-Files.html)
 for additional information.
 
 All data in the repository are licensed under the
